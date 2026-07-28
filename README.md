@@ -17,8 +17,8 @@ To bypass standard free-tier constraints, sign up via an official **"Moon Landin
 
 ### 3. Free Third-Party Hubs and Proxies
 If you experience heavy demand caps or slow processing times on the main site, several aggregated AI platforms host free public access to Kimi K3:
-* **ChatHub & PX:** Websites like ChatHub and PX provide direct alternative front-ends to chat with Kimi K3.
-* **Zlo.io Free Promos:** Promotional platforms like zlo.io feature special developer events offering up to **10 million free Kimi K3 tokens** over multi-hour windows without requiring credit cards.
+* **ChatHub & PX:** Websites like [ChatHub](https://chathub.gg) and PX provide direct alternative front-ends to chat with Kimi K3.
+* **Zlo.io Free Promos:** Promotional platforms like [zlo.io](https://zlo.io) feature special developer events offering up to **10 million free Kimi K3 tokens** over multi-hour windows without requiring credit cards.
 
 ### 4. Free AI Coding Agent Endpoints
 For developers looking to integrate Kimi K3 into a terminal workspace or IDE without paying for API billing, use an open-source terminal setup:
