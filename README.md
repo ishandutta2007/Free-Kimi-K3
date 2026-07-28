@@ -31,3 +31,14 @@ If you experience heavy demand caps or slow processing times on the main site, s
 ### 💻 4. Free AI Coding Agent Endpoints
 For developers looking to integrate Kimi K3 into a terminal workspace or IDE without paying for API billing, use an open-source terminal setup:
 * Combine a free open-source terminal coding agent like **OpenCode** with **ZenMLX (ZenMux)**, which offers limited-time free access to the `moonshotai/kimi-k3-free` endpoint. This allows you to deploy K3 for long-horizon agentic tasks entirely for free.
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FFree-Kimi-K3&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Free-Kimi-K3&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Free-Kimi-K3&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Free-Kimi-K3&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
