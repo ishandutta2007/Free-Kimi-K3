@@ -4,6 +4,10 @@
   <img src="./assets/banner.svg" alt="Free-Kimi-K3 Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
+
 ## 🌟 Accessing Kimi K3 AI Models for Free
 
 You can access Moonshot AI’s **Kimi K3** frontier model for free using official web interfaces, limited-time campaign bonuses, and free developer endpoints. 
